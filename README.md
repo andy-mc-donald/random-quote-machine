@@ -2,7 +2,7 @@
 
 ![Random quote machine screenshot](random-quote-machine.png)
 
-[FreeCodeCamp Front End Libraries Projects, number one](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine), built using:
+[FreeCodeCamp Front End Libraries Projects #1](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine), built using:
 
 * React
 * JavaScript
