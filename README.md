@@ -1,4 +1,4 @@
-# Random Quote Machine
+# [Random Quote Machine](https://andy-mc-donald.github.io/random-quote-machine/)
 
 ![Random quote machine screenshot](random-quote-machine.png)
 
